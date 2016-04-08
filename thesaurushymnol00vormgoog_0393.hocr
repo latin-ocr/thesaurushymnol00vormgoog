@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurushymnol00vormgoog/thesaurushymnol00vormgoog_0393.png"; bbox 0 0 2809 4850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 628 1674 667 1760">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 628 1674 667 1760">
+     <span class='ocr_line' id='line_1_1' title="bbox 628 1674 667 1760; baseline -0.051 0"><span class='ocrx_word' id='word_1_1' title='bbox 628 1674 667 1760; x_wconf 87' lang='grc' dir='ltr'><strong>Ι.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 320 1914 977 2031">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 320 1914 977 2031">
+     <span class='ocr_line' id='line_1_2' title="bbox 320 1914 977 2031; baseline -0.005 -24"><span class='ocrx_word' id='word_1_2' title='bbox 320 1914 977 2031; x_wconf 63' lang='lat' dir='ltr'><strong>sssQuENwlAm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 164 4493 714 4570">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 164 4493 714 4570">
+     <span class='ocr_line' id='line_1_3' title="bbox 164 4493 714 4570; baseline -0.002 -19"><span class='ocrx_word' id='word_1_3' title='bbox 164 4496 279 4551; x_wconf 75' lang='lat' dir='ltr'><strong>Dum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 297 4495 430 4552; x_wconf 68' lang='lat' dir='ltr'><strong>uum.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 446 4493 550 4570; x_wconf 69' lang='lat' dir='ltr'><strong>Hyan.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 565 4494 598 4553; x_wconf 78' lang='grc' dir='ltr'><strong>ΙΙ.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 703 4509 714 4530; x_wconf 66' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1410 4850">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1410 4850">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1410 4850; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1410 4850; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
